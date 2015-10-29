@@ -42,7 +42,7 @@ The Yocto Project™ is an open source collaboration project that provides templ
 
 ####ArchLinux
 
-ArchLinux design approach of the development team focuses on elegance, code correctness, minimalism, and simplicity, and expects the user to be willing to make some effort to understand the system's operation.[7] A package manager written specifically for Arch Linux, pacman, is used to install, remove and update software packages.
+ArchLinux design approach of the development team focuses on elegance, code correctness, minimalism, and simplicity, and expects the user to be willing to make some effort to understand the system's operation. A package manager written specifically for Arch Linux, pacman, is used to install, remove and update software packages.
 
 [ArchLinux Install Guide for UDOO](http://archlinuxarm.org/platforms/armv7/freescale/udoo)
 
